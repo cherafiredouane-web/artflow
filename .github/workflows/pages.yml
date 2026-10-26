@@ -1,0 +1,41 @@
+name: Deploy Artflow to GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Assemble the public website
+        run: |
+          mkdir -p _site/assets _site/data
+          cp index.html app.js styles.css _site/
+          cp -R assets/brand assets/artworks _site/assets/
+          cp data/artworks.json data/categories.json data/store-config.json _site/data/
+          touch _site/.nojekyll
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '_site'
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

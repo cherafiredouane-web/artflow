@@ -1,0 +1,50 @@
+[
+  {
+    "id": "abstrait",
+    "source": "abstrait",
+    "fr": "Art abstrait",
+    "ar": "الفن التجريدي",
+    "intro_fr": "Des compositions libres, des couleurs expressives et des formes qui donnent du rythme à vos murs.",
+    "intro_ar": "تكوينات فنية حرة وألوان معبّرة وأشكال تضيف إيقاعًا خاصًا إلى جدرانك."
+  },
+  {
+    "id": "animaux",
+    "source": "animaux",
+    "fr": "Animaux",
+    "ar": "الحيوانات",
+    "intro_fr": "Des silhouettes puissantes et des rencontres animales pleines de caractère.",
+    "intro_ar": "صور حيوانية آسرة وشخصيات قوية تضفي حضورًا مميزًا على المكان."
+  },
+  {
+    "id": "islamique",
+    "source": "art islamique",
+    "fr": "Art islamique",
+    "ar": "الفن الإسلامي",
+    "intro_fr": "Des œuvres inspirées par la calligraphie, les motifs et la beauté des compositions.",
+    "intro_ar": "أعمال تستلهم جمال الخط والزخارف والتكوينات الفنية المتوازنة."
+  },
+  {
+    "id": "culture-marocaine",
+    "source": "culture marocaine",
+    "fr": "Culture marocaine",
+    "ar": "الثقافة المغربية",
+    "intro_fr": "Des couleurs, des lieux et des détails qui évoquent les paysages et le patrimoine marocains.",
+    "intro_ar": "ألوان وأماكن وتفاصيل تستحضر المشاهد والتراث المغربي."
+  },
+  {
+    "id": "minimalisme",
+    "source": "minimalism",
+    "fr": "Minimalisme",
+    "ar": "البساطة",
+    "intro_fr": "Des lignes essentielles, des espaces calmes et une élégance tout en sobriété.",
+    "intro_ar": "خطوط بسيطة ومساحات هادئة وأناقة بعيدة عن التكلّف."
+  },
+  {
+    "id": "nature",
+    "source": "nature",
+    "fr": "Nature",
+    "ar": "الطبيعة",
+    "intro_fr": "Fleurs, paysages et instants paisibles pour inviter la nature à l’intérieur.",
+    "intro_ar": "أزهار ومناظر طبيعية ولحظات هادئة تقرّب الطبيعة إلى مساحتك."
+  }
+]
