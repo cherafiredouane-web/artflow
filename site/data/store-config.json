@@ -1,0 +1,40 @@
+{
+  "productSizeOptions": [
+    {
+      "id": "60x40",
+      "label": "60 × 40 cm",
+      "priceMAD": 230
+    },
+    {
+      "id": "80x60",
+      "label": "80 × 60 cm",
+      "priceMAD": 280
+    },
+    {
+      "id": "85x110",
+      "label": "85 × 110 cm",
+      "priceMAD": 342
+    }
+  ],
+  "bestSellerArtworkIds": [
+    "artwork-e4c3af2934ab",
+    "artwork-0e82b816daba",
+    "artwork-a4a1652d07df",
+    "artwork-d7ee46103846",
+    "artwork-ffe20e274913",
+    "artwork-13d5dcac7c6e",
+    "artwork-ac4036b9c8c9",
+    "artwork-98be1ceb2d2b",
+    "artwork-1f13ea1dbc0c",
+    "artwork-cd3f1bb0f8fb",
+    "artwork-bf6c4f140a8e",
+    "artwork-483ccaa24484",
+    "artwork-03af9cd69271",
+    "artwork-f44484ec57d6",
+    "artwork-6158a8fd7149",
+    "artwork-df1075678533",
+    "artwork-8b0554f14b4d",
+    "artwork-ed872617e6a5"
+  ],
+  "whatsappNumber": "212627025271"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "folder": "abstrait",
+    "id": "abstrait",
+    "nameFr": "Art abstrait",
+    "nameAr": "الفن التجريدي",
+    "introFr": "Des compositions libres, des couleurs et des formes qui donnent du caractère à vos murs.",
+    "introAr": "تكوينات فنية حرة وألوان وأشكال تضيف طابعًا مميزًا إلى جدرانكم.",
+    "count": 72,
+    "coverArtworkId": "artwork-bc4ffd0ff0e1"
+  },
+  {
+    "folder": "art islamique",
+    "id": "art-islamique",
+    "nameFr": "Art islamique",
+    "nameAr": "الفن الإسلامي",
+    "introFr": "Des compositions calligraphiques et ornementales dans une expression contemporaine.",
+    "introAr": "تكوينات خطية وزخرفية بروح معاصرة.",
+    "count": 22,
+    "coverArtworkId": "artwork-633555938bd0"
+  },
+  {
+    "folder": "culture marocaine",
+    "id": "culture-marocaine",
+    "nameFr": "Culture marocaine",
+    "nameAr": "الثقافة المغربية",
+    "introFr": "Une collection inspirée des paysages, des couleurs et des détails du Maroc.",
+    "introAr": "مجموعة تستلهم مناظر المغرب وألوانه وتفاصيله.",
+    "count": 44,
+    "coverArtworkId": "artwork-03af9cd69271"
+  },
+  {
+    "folder": "meilleurs ventes",
+    "id": "meilleures-ventes",
+    "nameFr": "Meilleures ventes",
+    "nameAr": "الأكثر مبيعًا",
+    "introFr": "La sélection désignée par Artflow dans les dossiers de la collection.",
+    "introAr": "الأعمال التي اختارتها Artflow ضمن مجموعتها.",
+    "count": 18,
+    "coverArtworkId": "artwork-e4c3af2934ab"
+  },
+  {
+    "folder": "minimaliste et géométrique",
+    "id": "minimaliste-geometrique",
+    "nameFr": "Minimaliste et géométrique",
+    "nameAr": "البساطة والأشكال الهندسية",
+    "introFr": "Des lignes essentielles et des compositions équilibrées, tout en simplicité.",
+    "introAr": "خطوط أساسية وتكوينات متوازنة بروح بسيطة.",
+    "count": 31,
+    "coverArtworkId": "artwork-8f872d8a5be8"
+  },
+  {
+    "folder": "nature et animaux",
+    "id": "nature-animaux",
+    "nameFr": "Nature et animaux",
+    "nameAr": "الطبيعة والحيوانات",
+    "introFr": "La beauté du vivant, des paysages et des formes naturelles.",
+    "introAr": "جمال الطبيعة والحيوانات والمناظر الطبيعية.",
+    "count": 144,
+    "coverArtworkId": "artwork-9827985755ae"
+  }
+]
